@@ -1,0 +1,11 @@
+{
+  "name": "extend",
+  "description": "Mixin any objects to an object",
+  "version": "1.0.0",
+  "keywords": ["extend", "mixin"],
+  "main": "index.js",
+  "dependencies": {
+    "scrat-team/type": "0.1.0"
+  },
+  "license": "MIT"
+}
