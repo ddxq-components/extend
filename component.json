@@ -5,7 +5,7 @@
   "keywords": ["extend", "mixin"],
   "main": "index.js",
   "dependencies": {
-    "scrat-team/type": "0.1.0"
+    "ddxq-components/type": "1.0.0"
   },
   "license": "MIT"
 }
