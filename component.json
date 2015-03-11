@@ -1,11 +1,10 @@
 {
   "name": "extend",
-  "description": "Mixin any objects to an object",
+  "description": "extend 嵌套多个对象的属性，用法同jQuery.extend。",
   "version": "1.0.0",
   "keywords": ["extend", "mixin"],
   "main": "index.js",
   "dependencies": {
     "ddxq-components/type": "1.0.0"
-  },
-  "license": "MIT"
+  }
 }
