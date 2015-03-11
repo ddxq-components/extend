@@ -7,7 +7,7 @@ extend用一个或多个其他对象来扩展一个对象，返回被扩展的�
 
 ## 使用说明
 
-### target,[object1],[objectN]Object,Object,Object
+### extend([deep,] target, obj1 [, objN])
 
 * deep:如果第一个参数设置为true，则jQuery返回一个深层次的副本，递归地复制找到的任何对象。否则的话，副本会与原对象共享结构。 未定义的属性将不会被复制，然而从对象的原型继承的属性将会被复制。
 * target:待修改对象。
